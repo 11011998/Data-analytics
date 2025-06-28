@@ -1,0 +1,31 @@
+# 📊 Excel Projects
+
+This folder contains projects done using **Microsoft Excel** with a focus on data cleaning, analysis, and visualization.
+
+---
+
+## ✅ 1. Sport Data Analysis
+
+**Description**:  
+Analyzed performance of players and teams using historical match data.
+
+**Key Features**:
+- Pivot tables for team performance
+- Conditional formatting for quick insights
+- Charts showing wins and losses by season
+
+📁 File: `sport-data-analysis.xlsx`
+
+---
+
+## ✅ 2. Consumer Complaint Analysis
+
+**Description**:  
+Cleaned and analyzed complaint records to find key issues and frequent complaint categories.
+
+**Key Features**:
+- Data cleaning with Excel functions (TRIM, IF, VLOOKUP)
+- Complaint type distribution using charts
+- Filtering by product, region, and resolution time
+
+📁 File: `consumer-complaint-analysis.xlsx`
